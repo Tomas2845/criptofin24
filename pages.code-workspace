@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../proyectoroling/pages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pages"
+	}
+}
